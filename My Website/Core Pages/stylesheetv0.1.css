@@ -1,0 +1,46 @@
+img {
+    max-width: 50%;
+    height: auto;
+    margin: auto;
+    display: block;
+  }
+
+  h1 {
+    text-align: center, justify;
+    font-family: Sofia, cursive;
+    color: #71ADBA;
+    text-align: center;
+  }
+  
+  h2 {
+    text-align: center, justify;
+    font-family: Sofia, cursive;
+    margin-left: 15px;
+    font-size: 150%;
+    font-weight: 700;
+    font-style: italic;
+  }
+
+  h3 {
+    text-align: center, justify;
+    font-family: Sofia, cursive;
+    margin-left: 12px;
+  }
+
+  p {
+    text-align: justify;
+    font-family: Rubik, sans-serif;
+    margin: 15px;
+  }
+
+  ul {
+    text-align: justify;
+    font-family: Rubik, sans-serif;
+    margin: 15px;
+  }
+
+  ol {
+    text-align: justify;
+    font-family: Rubik, sans-serif;
+    margin: 15px;
+  }
