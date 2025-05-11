@@ -1,9 +1,13 @@
-img {
+/* img {
     max-width: 50%;
     height: auto;
     margin: auto;
     display: block;
-  }
+  } */
+
+body{
+      margin: 25px;
+}
 
   h1 {
     text-align: center, justify;
@@ -30,17 +34,19 @@ img {
   p {
     text-align: justify;
     font-family: Rubik, sans-serif;
-    margin: 15px;
+    /* margin: 15px; */
   }
 
   ul {
     text-align: justify;
     font-family: Rubik, sans-serif;
-    margin: 15px;
+    /* margin: 15px; */
   }
 
   ol {
     text-align: justify;
     font-family: Rubik, sans-serif;
-    margin: 15px;
+    /* margin: 15px; */
   }
+
+  /* ____________ */

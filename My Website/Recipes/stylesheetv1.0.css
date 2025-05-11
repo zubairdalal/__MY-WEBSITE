@@ -1,3 +1,8 @@
+
+body{
+      margin: 25px;
+}
+
 img {
     max-width: 50%;
     height: auto;
@@ -70,19 +75,19 @@ img {
   p {
     text-align: justify;
     font-family: Rubik, sans-serif;
-    margin: 15px;
+    /* margin: 15px; */
   }
 
   ul {
     text-align: justify;
     font-family: Rubik, sans-serif;
-    margin: 15px;
+    /* margin: 15px; */
   }
 
   ol {
     text-align: justify;
     font-family: Rubik, sans-serif;
-    margin: 15px;
+    /* margin: 15px; */
   }
 
   
